@@ -8,3 +8,6 @@ How to run it on your machine?:
 
 You can run and experiment with all these codes on Google Colab which you can use online and you would not be requiring any other extra installation in your machines. Link for google collab: https://colab.research.google.com/.
 
+![image](https://user-images.githubusercontent.com/93984886/185763070-364c3fa0-6082-47c9-8b99-793d644d2007.png)
+
+
